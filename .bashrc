@@ -1,6 +1,0 @@
-export MONGOLAB_URI="mongodb://test:test123@ds121686.mlab.com:21686/mydb"
-export USER="test"
-export PASS="test123"
-export DBHOST="ds121686.mlab.com"
-export PORT="21686"
-export DB="mydb"
