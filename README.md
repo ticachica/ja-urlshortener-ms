@@ -1,5 +1,5 @@
 # API Basejump: URL Shortener
-[Free Code Camp](https://www.freecodecamp.org) project built on [glitch](https://glitch.com/) using [mongodb](https://www.mongodb.com/) on [mLab](https://mlab.com/).
+[Free Code Camp](https://www.freecodecamp.org) project built on [glitch](https://ja-urlshortener-ms.glitch.me) using [mongodb](https://www.mongodb.com/) on [mLab](https://mlab.com/).
 
 > User Stories:
 > - I can pass a URL as a parameter and I will receive a shortened URL in the JSON response
