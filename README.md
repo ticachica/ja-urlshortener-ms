@@ -1,2 +1,1 @@
-# ja-urlshortener-ms
-FCC URL Shortener Microservice Project
+# Backend Challenges boilerplate - package.json
