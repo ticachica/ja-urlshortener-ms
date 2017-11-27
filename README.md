@@ -6,9 +6,9 @@
 > - When I visit that shortened URL, it will redirect me to my original link.
 
 ## Example creation usage
-`[https://ja-urlshortener-ms.glitch.me/new/https://www.google.com](https://ja-urlshortener-ms.glitch.me/new/https://www.google.com)`
+`https://ja-urlshortener-ms.glitch.me/new/https://www.google.com`
 
-`[https://ja-urlshortener-ms.glitch.me/new/http://freecodecamp.com/news](https://ja-urlshortener-ms.glitch.me/new/http://freecodecamp.com/news)`
+`https://ja-urlshortener-ms.glitch.me/new/http://freecodecamp.com/news`
 
 ## Example creation output:
 ```json
@@ -16,7 +16,7 @@
 ```
 
 ## Usage:
-`[https://ja-urlshortener-ms.glitch.me/4](https://ja-urlshortener-ms.glitch.me/4)`
+`https://ja-urlshortener-ms.glitch.me/4`
 
 ## Will redirect to:
-`[http://freecodecamp.com/news](http://freecodecamp.com/news)`
+`http://freecodecamp.com/news`
